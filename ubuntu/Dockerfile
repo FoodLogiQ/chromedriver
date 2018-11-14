@@ -1,5 +1,7 @@
 FROM ubuntu:latest
 
+LABEL maintainer="FoodLogiQ <technology@foodlogiq.com>"
+
 ENV CHROMEDRIVER_VERSION 2.38
 
 RUN set -xe \
