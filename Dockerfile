@@ -1,6 +1,6 @@
 FROM python:3.7
 
-LABEL maintainer="FoodLogiQ <technology@foodlogiq.com>"
+LABEL maintainer="FoodLogiQ <technology@esha.com>"
 
 ENV CHROMEDRIVER_VERSION 2.38
 
